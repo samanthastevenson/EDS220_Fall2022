@@ -1,6 +1,7 @@
 # Working With Environmental Data
 -------------------
 
+
 ## [Course Website](https://samanthastevenson.github.io/EDS220_Fall2022_site/)
 
 --------------------
