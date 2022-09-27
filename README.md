@@ -23,3 +23,27 @@ By the end of the course, students should be able to:
 * Describe Data Pros/Cons: which datasets are most appropriate for a given application, and why?
 * Work with Peers to create use case examples for datasets, and communicate to the rest of the class.
 
+
+## _How to Use This Repository_
+--------------------------
+
+The following are some suggested instructions for setting up this repository. You can also feel free to fork or clone to your local machine!
+
+__Setup on the Bren Taylor Server__
+
+1. Log into Taylor and create a session.
+
+The Taylor server is located at [http://taylor.bren.ucsb.edu](http://taylor.bren.ucsb.edu). You must either be on campus or connected to the UCSB VPN in order to log in.
+
+Log in using your Bren username and password, and you will find yourself in the "RStudio Workbench" screen. Click the blue "New Session" icon to create a session: make sure to select either "JupyterLab" or "Jupyter Notebook" from the drop-down menu. I recommend JupyterLab since the interface has more flexibility!
+
+
+2. Fork the class repository to your Github account
+
+Fork the repository, so that you have your own copy of everything to work with. This can be accomplished by clicking the "Fork" button in the upper-right hand corner of the [class repo page](https://github.com/samanthastevenson/EDS220_Fall2022). 
+
+3. Clone the repository to your home directory on Taylor
+
+* Open a Terminal window: either using a Terminal application on your computer or via JupyterLab. In JupyterLab, you can open a terminal by choosing "File -> New -> Terminal". 
+
+* Type git clone and the the url for your forked copy of this repository.
