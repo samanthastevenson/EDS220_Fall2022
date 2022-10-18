@@ -47,3 +47,5 @@ Fork the repository, so that you have your own copy of everything to work with. 
 * Open a Terminal window: either using a Terminal application on your computer or via JupyterLab. In JupyterLab, you can open a terminal by choosing "File -> New -> Terminal". 
 
 * Type git clone and the the url for your forked copy of this repository.
+
+____________________
